@@ -1,7 +1,7 @@
 /*
-PROGRAMMER: Frederick Wachter
+PROGRAMMER: Nicolas Glocker
 DATE CREATED: 2016-04-13
-PURPOSE: Engineering Portfolio of Frederick Wachter
+PURPOSE: Engineering Portfolio of Nicolas Glocker
 CONTACT INFO: wachterfreddy@gmail.com
 */
 
