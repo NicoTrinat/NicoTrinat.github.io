@@ -301,7 +301,7 @@ a {
 /* -------------------- ------------- -------------------- */
 #intro {
 	position:fixed;
-	background:#0A0A0A url("img/Drexel_MainBuilding.png") no-repeat center center;
+	background:#0A0A0A url("img/dhbw_loerrach.jpg") no-repeat center center;
 	background-size:cover;
 }
 #logo {
@@ -380,16 +380,16 @@ a {
 /* -------------------- Page Classes and Ids -------------------- */
 /* -------------------- -------------------- -------------------- */
 #page1 {
-	background:#0A0A0A url(img/ETH_ASL_YuMi.jpg) no-repeat center center;
+	background:#0A0A0A url(img/KobraKing_logo.png) no-repeat center center;
 }
 #page2 {
-	background:#0A0A0A url(img/ETH_ASL_Tint.png) no-repeat center center;
+	background:#0A0A0A url(img/NicoTrinat_logo.png) no-repeat center center;
 }
 #page3 {
-	background:#0A0A0A url(img/DrexelHyperloop_Tint.png) no-repeat center center;
+	background:#0A0A0A url(img/Collection_mehlwormfarm.png) no-repeat center center;
 }
 #page4 {
-	background:#0A0A0A url(img/DrexelHyperloopExpo.png) no-repeat center center;
+	background:#0A0A0A url(img/Trinatronics-Wettbewerb_Alle_Teilnehmer_2025.jpeg) no-repeat center center;
 }
 #page1, #page2, #page3, #page4 {
 	height:100%;
