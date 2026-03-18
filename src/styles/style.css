@@ -582,56 +582,20 @@ a {
 /* -------------------- ------------------ -------------------- */
 /* -------------------- Project Experience -------------------- */
 /* -------------------- ------------------ -------------------- */
-#project_background_Hyperloop {
-	background:url(img/projects/Hyperloop.png) no-repeat center center;
+#project_background_drive_robot {
+	background:url(img/projects/DriveRobot.png) no-repeat center center;
 }
-#project_background_LIT {
-	background:url(img/projects/LIT.png) no-repeat center center;
+#project_background_jakkolo {
+	background:url(img/projects/jakkolo_plus_presented.png) no-repeat center center;
 }
-#project_background_THOR {
-	background:url(img/projects/THOR.jpg) no-repeat center center;
+#project_background_mehlwormfarm {
+	background:url(img/projects/mehlwormfarm.png) no-repeat center center;
 }
-#project_background_Micromouse {
-	background:url(img/projects/Micromouse.png) no-repeat center center;
+#project_background_autoloop {
+	background:url(img/projects/Autoloop.png) no-repeat center center;
 }
-#project_background_STAR {
-	background:url(img/projects/STAR.png) no-repeat center center;
-}
-#project_background_Hackathon {
-	background:url(img/projects/Hackathon.png) no-repeat center center;
-}
-#project_background_Hexcopter {
-	background:url(img/projects/Hexcopter.png) no-repeat center center;
-}
-#project_background_MATLAB {
-	background:url(img/projects/MATLAB.png) no-repeat center center;
-}
-#project_background_Golf {
-	background:url(img/projects/Golf.png) no-repeat center center;
-}
-#project_background_RASCAL {
-	background:url(img/projects/RASCAL.png) no-repeat center center;
-}
-#project_background_Canoe {
-	background:url(img/projects/Canoe.jpg) no-repeat center center;
-}
-#project_background_Mead {
-	background:url(img/projects/Mead.jpg) no-repeat center center;
-}
-#project_background_Mapping {
-	background:url(img/projects/Mapping.png) no-repeat center center;
-}
-#project_background_Swerve {
-	background:white url(img/projects/SwervePlatform.png) no-repeat center center;
-}
-#project_background_Soccer {
-	background:white url(img/projects/Soccer.png) no-repeat center center;
-}
-#project_background_Hyperloop, #project_background_LIT, #project_background_THOR, 
-#project_background_Micromouse, #project_background_STAR, #project_background_Hackathon, 
-#project_background_Hexcopter, #project_background_MATLAB, #project_background_Golf, 
-#project_background_RASCAL, #project_background_Canoe, #project_background_Mead, 
-#project_background_Mapping, #project_background_Swerve, #project_background_Soccer {
+
+#project_background_drive_robot, #project_background_jakkolo, #project_background_mehlwormfarm, #project_background_autoloop {
 	height:100%;
 	width:100%;
 	background-size:cover;
