@@ -560,6 +560,7 @@ a {
 	cursor:pointer;
 	-webkit-transition:opacity 0.5s;
 	transition:opacity 0.5s;
+	pointer-events:none;
 }
 .job div div p, .job div p {
 	margin:5px;
