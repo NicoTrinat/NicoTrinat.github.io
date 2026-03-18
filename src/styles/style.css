@@ -453,11 +453,11 @@ a {
 	background:url(img/projects/mehlwormfarm.png) no-repeat center center;
 }
 #platform_background_autoloop {
-	background:white url(img/projects/CAD_Autoloop.png) no-repeat center center;
+	background:url(img/projects/Autoloop.png) no-repeat center center;
 }
 
 
-#platform_background_drive_robot, #platform_background_jakkolo, #platform_background_autoloop {
+#platform_background_drive_robot, #platform_background_jakkolo, #platform_background_mehlwormfarm,#platform_background_autoloop {
 	height:100%;
 	width:100%;
 	background-size:cover;
