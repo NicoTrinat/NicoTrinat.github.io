@@ -443,52 +443,33 @@ a {
 /* -------------------- -------------------- -------------------- */
 /* -------------------- Platform Development -------------------- */
 /* -------------------- -------------------- -------------------- */
-#platform_background_hexcopter {
-	background:url(img/platforms/Hexcopter.jpg) no-repeat center center;
+#platform_background_drive_robot {
+	background:url(img/CAD-Drive\ Robot.jpg) no-repeat center center;
 }
-#platform_background_tdmr {
-	background:url(img/platforms/Mapping.png) no-repeat center center;
+#platform_background_jakkolo {
+	background:url(img/jakkolo_plus.png) no-repeat center center;
 }
-#platform_background_robot_arm {
-	background:url(img/platforms/Robot_Arm.png) no-repeat center center;
+#platform_background_mehlwormfarm {
+	background:url(img/platforms/Mehlwormfarm.png) no-repeat center center;
 }
-#platform_background_thor {
-	background:url(img/platforms/THOR.jpg) no-repeat center center;
+#platform_background_autoloop {
+	background:url(img/platforms/CAD_Autoloop.png) no-repeat center center;
 }
-#platform_background_hyperloop {
-	background:url(img/platforms/Hyperloop.png) no-repeat center center;
+
+#platform_background_ARaymond {
+	background:white url(img/platforms/ARaymond.png) no-repeat center center;
 }
-#platform_background_yumi {
-	background:url(img/platforms/YuMi.png) no-repeat center center;
+#platform_background_Daimler {
+	background:white url(img/platforms/Daimler.png) no-repeat center center;
 }
-#platform_background_dragon {
-	background:url(img/platforms/Dragon.jpg) no-repeat center center;
-}
-#platform_background_micromouse {
-	background:white url(img/platforms/Micromouse.png) no-repeat center center;
-}
-#platform_background_swerve {
-	background:white url(img/platforms/SwervePlatform.png) no-repeat center center;
-}
-#platform_background_auto_flight {
-	background:white url(img/platforms/ATL.png) no-repeat center center;
-}
-#platform_background_auto_boat {
-	background:white url(img/platforms/ATL.png) no-repeat center center;
-}
-#platform_background_soccer {
-	background:white url(img/platforms/Soccer.png) no-repeat center center;
-}
-#platform_background_hexcopter, #platform_background_tdmr, #platform_background_robot_arm, 
-#platform_background_thor, #platform_background_hyperloop, #platform_background_yumi, 
-#platform_background_dragon, #platform_background_micromouse, #platform_background_swerve,
-#platform_background_auto_flight, #platform_background_auto_boat, #platform_background_soccer {
+
+#platform_background_drive_robot, #platform_background_jakkolo, #platform_background_autoloop, 
+#platform_background_ARaymond, #platform_background_Daimler {
 	height:100%;
 	width:100%;
 	background-size:cover;
 }
-#platform_background_micromouse, #platform_background_swerve, #platform_background_auto_flight, 
-#platform_background_auto_boat {
+#platform_background_ARaymond, #platform_background_Daimler {
 	background-size:contain;
 }
 .platform {
