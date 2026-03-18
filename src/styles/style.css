@@ -1,6 +1,6 @@
 /*
 PROGRAMMER: Nicolas Glocker
-DATE CREATED: 2016-04-13
+DATE CREATED: 18.03.2026
 PURPOSE: Engineering Portfolio of Nicolas Glocker
 CONTACT INFO: nicolas.glocker.ng@gmail.com
 */
@@ -717,5 +717,7 @@ input:focus {
 	-moz-box-shadow:inset 0px 0px 5px #0A0A0A;
 	-o-box-shadow:inset 0px 0px 5px #0A0A0A;
 	box-shadow:inset 0px 0px 5px #0A0A0A;
-
-
+	background-color:white;
+	color:black;
+	cursor:pointer;
+}
