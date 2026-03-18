@@ -685,7 +685,7 @@ form {
 }
 input, textarea {
 	float:none;
-	margin:5px; auto;
+	margin:5px auto;
 	padding:4px;
 	width:100%;
 	max-width:300px;
