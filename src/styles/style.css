@@ -453,23 +453,16 @@ a {
 	background:url(img/platforms/Mehlwormfarm.png) no-repeat center center;
 }
 #platform_background_autoloop {
-	background:url(img/platforms/CAD_Autoloop.png) no-repeat center center;
+	background:white url(img/platforms/CAD_Autoloop.png) no-repeat center center;
 }
 
-#platform_background_ARaymond {
-	background:white url(img/platforms/ARaymond.png) no-repeat center center;
-}
-#platform_background_Daimler {
-	background:white url(img/platforms/Daimler.png) no-repeat center center;
-}
 
-#platform_background_drive_robot, #platform_background_jakkolo, #platform_background_autoloop, 
-#platform_background_ARaymond, #platform_background_Daimler {
+#platform_background_drive_robot, #platform_background_jakkolo, #platform_background_autoloop {
 	height:100%;
 	width:100%;
 	background-size:cover;
 }
-#platform_background_ARaymond, #platform_background_Daimler {
+#platform_background_autoloop {
 	background-size:contain;
 }
 .platform {
@@ -529,16 +522,14 @@ a {
 /* -------------------- ---------------------- -------------------- */
 /* -------------------- Engineering Experience -------------------- */
 /* -------------------- ---------------------- -------------------- */
-#job_background_ATL {
-	background:url(img/work/ATL.png) no-repeat center center;
+#job_background_ARaymond {
+	background:url(img/work/ARaymond.png) no-repeat center center;
 }
-#job_background_ASL {
-	background:url(img/work/ASL.png) no-repeat center center;
+#job_background_Daimler {
+	background:url(img/work/Daimler.png) no-repeat center center;
 }
-#job_background_PTW {
-	background:url(img/work/PTW.png) no-repeat center center;
-}
-#job_background_ATL, #job_background_ASL, #job_background_PTW {
+
+#job_background_ARaymond, #job_background_Daimler{
 	height:100%;
 	width:100%;
 	background-size:contain;
