@@ -650,7 +650,7 @@ a {
 }
 /* height:290px; */
 .project:hover {
-	height:320px;
+	height:350px;
 	background:rgba(25,25,25,1);
 }
 .project:hover .projectImage {
