@@ -612,7 +612,7 @@ a {
 	background:url(img/projects/Autoloop.png) no-repeat center center;
 }
 
-#project_background_drive_robot, #project_background_jakkolo, #project_background_mehlwormfarm, #project_background_autoloop {
+#project_background_drive_robot, #project_background_jakkolo, #project_background_snake_game, #project_background_mehlwormfarm, #project_background_autoloop {
 	height:100%;
 	width:100%;
 	background-size:cover;
@@ -648,8 +648,9 @@ a {
 	margin:5px;
 	color:white;
 }
+/* height:290px; */
 .project:hover {
-	height:290px;
+	height:320px;
 	background:rgba(25,25,25,1);
 }
 .project:hover .projectImage {
