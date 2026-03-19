@@ -380,16 +380,16 @@ a {
 /* -------------------- Page Classes and Ids -------------------- */
 /* -------------------- -------------------- -------------------- */
 #page1 {
-	background:#0A0A0A url(img/engineer_wallpaper.jpg) no-repeat center center;
+	background:#0A0A0A url(img/Trinatronics-Wettbewerb_Alle_Teilnehmer_2025.jpeg) no-repeat center center;
 }
 #page2 {
-	background:#0A0A0A url(img/Foto_2026.jpg) no-repeat center center;
+	background:#0A0A0A url(img/engineer_wallpaper.jpg) no-repeat center center;
 }
 #page3 {
 	background:#0A0A0A url(img/Collection_mehlwormfarm.png) no-repeat center center;
 }
 #page4 {
-	background:#0A0A0A url(img/Trinatronics-Wettbewerb_Alle_Teilnehmer_2025.jpeg) no-repeat center center;
+	background:#0A0A0A url(img/Foto_2026.jpg) no-repeat center center;
 }
 #page1, #page2, #page3, #page4 {
 	height:100%;
@@ -587,7 +587,7 @@ a {
 	background:url(img/projects/DriveRobot.jpg) no-repeat center center;
 }
 #project_background_jakkolo {
-	background:url(img/projects/jakkolo_plus_presented.png) no-repeat center center;
+	background:url(img/projects/Autonom_mehlwormfarm.png) no-repeat center center;
 }
 #project_background_mehlwormfarm {
 	background:url(img/projects/mehlwormfarm.png) no-repeat center center;
