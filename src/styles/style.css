@@ -383,7 +383,7 @@ a {
 	background:#0A0A0A url(img/Trinatronics-Wettbewerb_Alle_Teilnehmer_2025.jpeg) no-repeat center center;
 }
 #page2 {
-	background:#0A0A0A url(img/engineer_wallpaper.jpg) no-repeat center center;
+	background:#0A0A0A url(img/FHNW_Innen.jpg) no-repeat center center;
 }
 #page3 {
 	background:#0A0A0A url(img/Collection_mehlwormfarm.png) no-repeat center center;
@@ -523,10 +523,19 @@ a {
 /* -------------------- Engineering Experience -------------------- */
 /* -------------------- ---------------------- -------------------- */
 #job_background_ARaymond {
-	background:url(img/work/ARaymond.jpg) no-repeat center center;
+	background:whitesmoke url(img/work/ARaymond.jpg) no-repeat center center;
+}
+#job_background_DHBW {
+	background:whitesmoke url(img/work/DHBW_logo.png) no-repeat center center;
+}
+#job_background_UHA {
+	background:whitesmoke url(img/work/UHA_logo.png) no-repeat center center;
+}
+#job_background_FHNW {
+	background:whitesmoke url(img/work/FHNW_logo.png) no-repeat center center;
 }
 #job_background_Daimler {
-	background:url(img/work/Daimler.png) no-repeat center center;
+	background:whitesmoke url(img/work/Daimler.png) no-repeat center center;
 }
 
 #job_background_ARaymond, #job_background_Daimler{
