@@ -444,6 +444,9 @@ a {
 /* -------------------- -------------------- -------------------- */
 /* -------------------- Platform Development -------------------- */
 /* -------------------- -------------------- -------------------- */
+#platform_background_snake_game {
+	background:url(img/projects/Menu_Snake.png) no-repeat center center;
+}
 #platform_background_drive_robot {
 	background:url(img/CAD-Drive\ Robot.jpg) no-repeat center center;
 }
@@ -458,7 +461,7 @@ a {
 }
 
 
-#platform_background_drive_robot, #platform_background_jakkolo, #platform_background_mehlwormfarm,#platform_background_autoloop {
+#platform_background_drive_robot, #platform_background_jakkolo, #platform_background_snake_game, #platform_background_mehlwormfarm,#platform_background_autoloop {
 	height:100%;
 	width:100%;
 	background-size:cover;
@@ -593,6 +596,9 @@ a {
 /* -------------------- ------------------ -------------------- */
 /* -------------------- Project Experience -------------------- */
 /* -------------------- ------------------ -------------------- */
+#project_background_snake_game {
+	background:url(img/projects/Snake_Game.png) no-repeat center center;
+}
 #project_background_drive_robot {
 	background:url(img/projects/DriveRobot.jpg) no-repeat center center;
 }
